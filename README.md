@@ -1,14 +1,14 @@
 # 🚀 PERN Stack Server
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Denis Davila" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://www.freepik.es/fotos-vectores-gratis/programador-anime" alt="Denis Davila" width="150" height="150" style="border-radius: 50%;">
   
   ### Denis Yampol Davila Huamán
-  **Full Stack Developer | PERN Stack Specialist**
+  **Full Stack Developer | [P or M]+ERN Stack Specialist**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davila)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-yampol-davila-huaman/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.dh.web@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51928570081)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+519*******1)
 </div>
 
 ---
